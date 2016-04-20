@@ -1,0 +1,16 @@
+ul{
+    display: inline-block;
+    list-style: none;
+}
+.opinion {
+    border: black;
+    border-style: solid;
+    padding: 30px;
+    background-color: grey;
+}
+.otheropinion {
+    padding: 30px;
+}
+nav-bar li {
+    display: inline-block;
+}
